@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "67062d7ce10ca64bd11e4ec7"
+  },
+  "social_id": "kjncjudhuv1234",
+  "email": "test123@gmail.com",
+  "country_code": null,
+  "mobile_number": null,
+  "password": null,
+  "time_zone": "Asia/Kolkata",
+  "device_info": {
+    "device_token": "dabjfbifu",
+    "device_type": "I",
+    "device_name": "I phone 15 pro",
+    "uuid": "bjsdbcsddb2165",
+    "model_name": "15 pro",
+    "os_version": "17.7.1",
+    "ip": "123.12.02.345",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHBpcmVzSW4iOiIzNjVkYXlzIiwiZGF0YSI6eyJ1c2VyX2lkIjoiNjcwNjJkN2NlMTBjYTY0YmQxMWU0ZWM3In0sImlhdCI6MTcyODQ1ODIxM30.O_r0JQmHUOIX6y60b4ZrADVQY_MJoP4B6x6rhE_F-XI"
+  },
+  "login_type": "G",
+  "is_verify": "0",
+  "is_active": "1",
+  "is_delete": "0",
+  "login_status": "0",
+  "created_at": {
+    "$date": "2024-10-09T07:15:08.793Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-09T07:15:08.793Z"
+  },
+  "__v": 0,
+  "full_name": "Ronak Patel"
+},
+{
+  "_id": {
+    "$oid": "67062dcbe10ca64bd11e4ecf"
+  },
+  "social_id": "",
+  "email": "test@gmail.com",
+  "country_code": null,
+  "mobile_number": null,
+  "password": "ebb9a3c9bf946d2499cdcfc881628749",
+  "time_zone": "Asia/Kolkata",
+  "device_info": {
+    "device_token": "dabjfbifu",
+    "device_type": "I",
+    "device_name": "I phone 15 pro",
+    "uuid": "bjsdbcsddb2165",
+    "model_name": "15 pro",
+    "os_version": "17.7.1",
+    "ip": "123.12.02.345",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHBpcmVzSW4iOiIzNjVkYXlzIiwiZGF0YSI6eyJ1c2VyX2lkIjoiNjcwNjJkY2JlMTBjYTY0YmQxMWU0ZWNmIn0sImlhdCI6MTcyODUzNjc1N30.0NdsA_hWbnEW1rNhcV69dRF-NyYIj_hmwED_Z4aijfA"
+  },
+  "login_type": "S",
+  "is_verify": "0",
+  "is_active": "1",
+  "is_delete": "0",
+  "login_status": "0",
+  "created_at": {
+    "$date": "2024-10-09T07:16:27.727Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-09T07:16:27.727Z"
+  },
+  "__v": 0,
+  "full_name": "Ronak"
+},
+{
+  "_id": {
+    "$oid": "67062ddbe10ca64bd11e4ed6"
+  },
+  "social_id": "",
+  "email": null,
+  "country_code": "+91",
+  "mobile_number": {
+    "$numberLong": "6541239870"
+  },
+  "password": "ebb9a3c9bf946d2499cdcfc881628749",
+  "time_zone": "Asia/Kolkata",
+  "device_info": {
+    "device_token": "dabjfbifu",
+    "device_type": "I",
+    "device_name": "I phone 15 pro",
+    "uuid": "bjsdbcsddb2165",
+    "model_name": "15 pro",
+    "os_version": "17.7.1",
+    "ip": "123.12.02.345",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHBpcmVzSW4iOiIzNjVkYXlzIiwiZGF0YSI6eyJ1c2VyX2lkIjoiNjcwNjJkZGJlMTBjYTY0YmQxMWU0ZWQ2In0sImlhdCI6MTcyODUzNjc2MX0.MXS1DB8y3baO_b6RRU4EMXNU0U85H4l_XyL3KEa8bUo"
+  },
+  "login_type": "S",
+  "is_verify": "0",
+  "is_active": "1",
+  "is_delete": "0",
+  "login_status": "0",
+  "created_at": {
+    "$date": "2024-10-09T07:16:43.134Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-09T07:16:43.134Z"
+  },
+  "__v": 0,
+  "full_name": "Ronak Radadiya"
+},
+{
+  "_id": {
+    "$oid": "670777b42c55aae6ab1e76ed"
+  },
+  "full_name": "abc",
+  "social_id": "",
+  "email": null,
+  "country_code": "+91",
+  "mobile_number": {
+    "$numberLong": "6541239870123"
+  },
+  "password": "ebb9a3c9bf946d2499cdcfc881628749",
+  "time_zone": "Asia/Kolkata",
+  "device_info": {
+    "device_token": "dabjfbifu",
+    "device_type": "I",
+    "device_name": "I phone 15 pro",
+    "uuid": "bjsdbcsddb2165",
+    "model_name": "15 pro",
+    "os_version": "17.7.1",
+    "ip": "123.12.02.345",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHBpcmVzSW4iOiIzNjVkYXlzIiwiZGF0YSI6eyJ1c2VyX2lkIjoiNjcwNzc3YjQyYzU1YWFlNmFiMWU3NmVkIn0sImlhdCI6MTcyODU0MjY0NH0.ZDPIaUfKSR2qoVBXHedix-6EdtvWJcNx06pmiUTApzA"
+  },
+  "login_type": "S",
+  "is_verify": "0",
+  "is_active": "1",
+  "is_delete": "0",
+  "login_status": "0",
+  "created_at": {
+    "$date": "2024-10-10T06:44:04.245Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-10T06:44:04.245Z"
+  },
+  "__v": 0
+}]
