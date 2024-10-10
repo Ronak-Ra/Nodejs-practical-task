@@ -1,0 +1,368 @@
+[{
+  "_id": {
+    "$oid": "670763c163be10f6c31e3e5b"
+  },
+  "order_id": {
+    "$oid": "670763c163be10f6c31e3e59"
+  },
+  "product_id": {
+    "$oid": "670630768ffa52dc1eea60f8"
+  },
+  "quantity": 1,
+  "unit_price": 2020,
+  "total_price": 2020,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T05:18:57.230Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T05:18:57.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670763c163be10f6c31e3e5c"
+  },
+  "order_id": {
+    "$oid": "670763c163be10f6c31e3e59"
+  },
+  "product_id": {
+    "$oid": "670630b35e7406de26bf8d43"
+  },
+  "quantity": 2,
+  "unit_price": 2121,
+  "total_price": 4242,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T05:18:57.230Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T05:18:57.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67076c3e25adb3edb49159f4"
+  },
+  "order_id": {
+    "$oid": "67076c3e25adb3edb49159f2"
+  },
+  "product_id": {
+    "$oid": "670630b35e7406de26bf8d43"
+  },
+  "quantity": 2,
+  "unit_price": 2121,
+  "total_price": 4242,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T05:55:10.614Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T05:55:10.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67077d8cf2e3d8fd48bef880"
+  },
+  "order_id": {
+    "$oid": "67077d8cf2e3d8fd48bef87e"
+  },
+  "product_id": {
+    "$oid": "670630b35e7406de26bf8d43"
+  },
+  "quantity": 2,
+  "unit_price": 2121,
+  "total_price": 4242,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T07:09:00.971Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T07:09:00.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67078a0bcf496477738a3523"
+  },
+  "order_id": {
+    "$oid": "67078a0bcf496477738a3521"
+  },
+  "product_id": {
+    "$oid": "670630da5e7406de26bf8d47"
+  },
+  "quantity": 2,
+  "unit_price": 250,
+  "total_price": 500,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T08:02:19.369Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T08:02:19.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67078b05604ddf668b5e19b8"
+  },
+  "order_id": {
+    "$oid": "67078b05604ddf668b5e19b6"
+  },
+  "product_id": {
+    "$oid": "670630c95e7406de26bf8d45"
+  },
+  "quantity": 3,
+  "unit_price": 25000,
+  "total_price": 75000,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T08:06:29.518Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T08:06:29.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67078c8b177e112758a79d08"
+  },
+  "order_id": {
+    "$oid": "67078c8b177e112758a79d06"
+  },
+  "product_id": {
+    "$oid": "670630c95e7406de26bf8d45"
+  },
+  "quantity": 3,
+  "unit_price": 25000,
+  "total_price": 75000,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T08:12:59.174Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T08:12:59.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67078d8f754e2229357e01ac"
+  },
+  "order_id": {
+    "$oid": "67078d8f754e2229357e01aa"
+  },
+  "product_id": {
+    "$oid": "670630768ffa52dc1eea60f8"
+  },
+  "quantity": 1,
+  "unit_price": 2020,
+  "total_price": 2020,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T08:17:19.156Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T08:17:19.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67078dc6754e2229357e01d4"
+  },
+  "order_id": {
+    "$oid": "67078dc6754e2229357e01d2"
+  },
+  "product_id": {
+    "$oid": "670630b35e7406de26bf8d43"
+  },
+  "quantity": 4,
+  "unit_price": 2121,
+  "total_price": 8484,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T08:18:14.938Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T08:18:14.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67078ed5db053addb02b93cd"
+  },
+  "order_id": {
+    "$oid": "67078ed5db053addb02b93cb"
+  },
+  "product_id": {
+    "$oid": "670630b35e7406de26bf8d43"
+  },
+  "quantity": 1,
+  "unit_price": 2121,
+  "total_price": 2121,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T08:22:45.016Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T08:22:45.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670797cdbcd5614fb989f978"
+  },
+  "order_id": {
+    "$oid": "670797cdbcd5614fb989f976"
+  },
+  "product_id": {
+    "$oid": "670630768ffa52dc1eea60f8"
+  },
+  "quantity": 1,
+  "unit_price": 2020,
+  "total_price": 2020,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T09:01:01.928Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T09:01:01.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67079805bcd5614fb989f995"
+  },
+  "order_id": {
+    "$oid": "67079805bcd5614fb989f993"
+  },
+  "product_id": {
+    "$oid": "670630768ffa52dc1eea60f8"
+  },
+  "quantity": 1,
+  "unit_price": 2020,
+  "total_price": 2020,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T09:01:57.889Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T09:01:57.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67079818bcd5614fb989f9aa"
+  },
+  "order_id": {
+    "$oid": "67079818bcd5614fb989f9a8"
+  },
+  "product_id": {
+    "$oid": "670630768ffa52dc1eea60f8"
+  },
+  "quantity": 1,
+  "unit_price": 2020,
+  "total_price": 2020,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T09:02:16.185Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T09:02:16.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67079e5fb6ddf6791caba47b"
+  },
+  "order_id": {
+    "$oid": "67079e5fb6ddf6791caba479"
+  },
+  "product_id": {
+    "$oid": "670630c95e7406de26bf8d45"
+  },
+  "quantity": 6,
+  "unit_price": 25000,
+  "total_price": 150000,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T09:29:03.884Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T09:29:03.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707b7bd126a3ba2fdefe89c"
+  },
+  "order_id": {
+    "$oid": "6707b7bd126a3ba2fdefe89a"
+  },
+  "product_id": {
+    "$oid": "670630768ffa52dc1eea60f8"
+  },
+  "quantity": 8,
+  "unit_price": 2020,
+  "total_price": 16160,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T11:17:17.318Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T11:17:17.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707b861b5734e802f445f53"
+  },
+  "order_id": {
+    "$oid": "6707b861b5734e802f445f51"
+  },
+  "product_id": {
+    "$oid": "6707b759126a3ba2fdefe891"
+  },
+  "quantity": 8,
+  "unit_price": 23000,
+  "total_price": 184000,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T11:20:01.926Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T11:20:01.926Z"
+  },
+  "__v": 0
+}]

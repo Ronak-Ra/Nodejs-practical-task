@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "670630768ffa52dc1eea60f8"
+  },
+  "product_name": "AC",
+  "product_description": "Good ac",
+  "product_price": 2020,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-09T07:27:50.166Z"
+  },
+  "update_at": {
+    "$date": "2024-10-09T07:27:50.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670630b35e7406de26bf8d43"
+  },
+  "product_name": "TV",
+  "product_description": "Good TV",
+  "product_price": 2121,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-09T07:28:51.333Z"
+  },
+  "update_at": {
+    "$date": "2024-10-09T07:28:51.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670630c95e7406de26bf8d45"
+  },
+  "product_name": "Mobile phone",
+  "product_description": "Good mobile phone",
+  "product_price": 25000,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-09T07:29:13.616Z"
+  },
+  "update_at": {
+    "$date": "2024-10-09T07:29:13.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670630da5e7406de26bf8d47"
+  },
+  "product_name": "mouse",
+  "product_description": "Good mouse",
+  "product_price": 250,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-09T07:29:30.152Z"
+  },
+  "update_at": {
+    "$date": "2024-10-09T07:29:30.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707ae5bda45dc2f8bed418a"
+  },
+  "product_name": "laptop",
+  "product_description": "laptop",
+  "product_price": 60000,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T10:37:15.535Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T10:37:15.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707b759126a3ba2fdefe891"
+  },
+  "product_name": "destop",
+  "product_description": "laptop",
+  "product_price": 23000,
+  "is_active": "1",
+  "is_delete": "0",
+  "create_at": {
+    "$date": "2024-10-10T11:15:37.940Z"
+  },
+  "update_at": {
+    "$date": "2024-10-10T11:15:37.941Z"
+  },
+  "__v": 0
+}]
